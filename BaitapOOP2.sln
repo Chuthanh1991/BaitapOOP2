@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapOOP2", "BaitapOOP2\BaitapOOP2.csproj", "{4FB65930-0404-4A52-A176-3001E2CCFCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB65930-0404-4A52-A176-3001E2CCFCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB65930-0404-4A52-A176-3001E2CCFCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB65930-0404-4A52-A176-3001E2CCFCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB65930-0404-4A52-A176-3001E2CCFCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ACCC8F4-B520-4B24-8C98-2D4853D30F16}
+	EndGlobalSection
+EndGlobal
